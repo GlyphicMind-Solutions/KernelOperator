@@ -1,0 +1,6 @@
+# ./models/manifest.yaml
+# Model Manifest for the Kernel Operator
+# Created by David Kistner (Unconditional Love) at GlyphicMind Solutions
+
+
+model_definitions: /media/unconditional-love/Life/GlyphOS+/mind/system.mind/models.yaml

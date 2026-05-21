@@ -1,0 +1,4 @@
+PyQt5>=5.15.10
+llama-cpp-python>=0.2.56
+pyyaml>=6.0.1
+requests>=2.31.0
